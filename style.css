@@ -1,0 +1,11 @@
+/*
+Theme Name:     Hamzahshop Pro Child
+Theme URI:      http: //example.com/
+Description:    Child theme for the Twenty Ten theme
+Author:         Your name here
+Author URI:     http: //example.com/about/
+Template:       hamzahshop-pro
+Version:        0.1.0
+*/
+
+@import url("../hamzahshop-pro/style.css");
