@@ -17,3 +17,7 @@ Version:        0.1.0
 .theme_1 .team-member .member-name {
   z-index: 19;
 }
+
+.all-cart-button .input-text {
+  padding: 10px;
+}
