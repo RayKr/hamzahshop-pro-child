@@ -9,3 +9,11 @@ Version:        0.1.0
 */
 
 @import url("../hamzahshop-pro/style.css");
+
+.product-category-image-grid-wrp figcaption {
+  z-index: 19;
+}
+
+.theme_1 .team-member .member-name {
+  z-index: 19;
+}
