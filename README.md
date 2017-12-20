@@ -1,0 +1,1 @@
+1. 修改 `/inc/widgets.php` 的　`<p class="no-margin"><?php echo the_excerpt();?></p>`

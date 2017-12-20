@@ -21,3 +21,11 @@ Version:        0.1.0
 .all-cart-button .input-text {
   padding: 10px;
 }
+
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+    color: #f10214;
+}
+
+.woocommerce-Tabs-panel--description h2 {
+  margin-bottom: 20px;
+}
