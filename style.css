@@ -29,3 +29,8 @@ Version:        0.1.0
 .woocommerce-Tabs-panel--description h2 {
   margin-bottom: 20px;
 }
+
+.menu-item .fa {
+  font-size: 18px;
+  margin-right: 5px;
+}
