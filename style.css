@@ -9,6 +9,7 @@ Version:        0.1.0
 */
 
 @import url("../hamzahshop-pro/style.css");
+@import url("./iconfont/iconfont.css");
 
 .product-category-image-grid-wrp figcaption {
   z-index: 19;
@@ -33,4 +34,9 @@ Version:        0.1.0
 .menu-item .fa {
   font-size: 18px;
   margin-right: 5px;
+}
+
+.menu-item .iconfont {
+  font-size: 18px;
+  margin-right: 10px;
 }
